@@ -1,5 +1,6 @@
 # NLHospital
 Project that simulates an hospital admission system developed for the Programmer Analyst Program at CDI College Montréal in 2020.
+Implemented with C# ADO.NET using a SQL Server database
 
 What is included
 
