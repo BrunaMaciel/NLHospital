@@ -1,0 +1,8 @@
+C:\Users\bruhn\Desktop\Integrated Project\P2\Student Files\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.dll
+C:\Users\bruhn\Desktop\Integrated Project\P2\Student Files\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.pdb
+C:\Users\bruhn\Desktop\Integrated Project\P2\Student Files\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csprojAssemblyReference.cache
+C:\Users\bruhn\Desktop\Integrated Project\P2\Student Files\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.NLHBase.resources
+C:\Users\bruhn\Desktop\Integrated Project\P2\Student Files\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.GenerateResource.cache
+C:\Users\bruhn\Desktop\Integrated Project\P2\Student Files\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.CoreCompileInputs.cache
+C:\Users\bruhn\Desktop\Integrated Project\P2\Student Files\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.dll
+C:\Users\bruhn\Desktop\Integrated Project\P2\Student Files\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.pdb
