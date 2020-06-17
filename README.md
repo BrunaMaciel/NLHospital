@@ -5,6 +5,8 @@ What is included
 
 • The "Project" pdf document that describes the project assignment.
 
+• The "Base Files-CDI provided" folder with all documentation provided by CDI to complete this project.
+
 • The "NL Hospital" pdf document that describes the project operation and its key functions.
 
 •	A SQL project that has the necessary scripts to implement the database used in the user application (Folder NLHDatabase).
